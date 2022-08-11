@@ -1,4 +1,4 @@
-# Defender Meta-Transactions Workshop
+# Gasless-MetaTransactions-with-OpenZeppelin-Defender
 
 Code for the workshop on Meta-Transactions using [OpenZeppelin Defender](https://openzeppelin.com/defender).
 
